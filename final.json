@@ -1,0 +1,28 @@
+[
+	{
+		"drink_name":"Margarita",
+		"alcohol":["Cointreau","Tequila"],
+		"recipe_link":""
+	},
+		{
+		"drink_name":"Mojito",
+		"alcohol":["White Rum"],
+		"recipe_link":""
+	},
+		{
+		"drink_name":"Caesar",
+		"alcohol":["Vodka"],
+		"recipe_link":""
+	},
+		{
+		"drink_name":"Martini",
+		"alcohol":["Gin","Dry Vermouth"],
+		"recipe_link":""
+	},
+		{
+		"drink_name":"Long Island Iced Tea",
+		"alcohol":["Vodka","White Rum","Tequila","Gin","Triple Sec"],
+		"recipe_link":""
+	}
+	
+]
