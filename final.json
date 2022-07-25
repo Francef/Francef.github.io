@@ -2,7 +2,7 @@
 	{
 		"drink_name":"Margarita",
 		"alcohol":["Cointreau","Tequila"],
-		"recipe_link":"href='margarita.html'"
+		"recipe_link":"margarita.html"
 	},
 		{
 		"drink_name":"Mojito",
