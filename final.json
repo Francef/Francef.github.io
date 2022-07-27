@@ -3,12 +3,12 @@
 		"drink_name":"Margarita",
 		"alcohol":["Cointreau","Tequila"],
 		"recipe_link":"margarita.html>Margarita Recipe",
-		"image":""
+		"image":"/images/margarita.jpg"
 	},
 		{
 		"drink_name":"Mojito",
 		"alcohol":["White Rum"],
-		"recipe_link":"/images/margarita.jpg"
+		"recipe_link":""
 	},
 		{
 		"drink_name":"Caesar",
